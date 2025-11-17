@@ -17,6 +17,17 @@
      GIL = Global Interpreter Lock = It is a mutex that allows only one thread to run python code at a time. Ensure memory safety.
 
 ---
+
+  3. What is Namespace and it's types?
+
+     Namespace is a container that holds the name of the variables, function and classed to avoid conflicts.
+
+     Types :  
+       1. Build-in  :  print(), len()
+       2. Global    :  x=10
+       3. Local     :  def fun(): y=10
+       4. Enclosing :  def outer(): def inner(): z=10
     
+     Order :  LEGB : Local, enclosing, global, builtin
 
     
