@@ -11,6 +11,12 @@
     Multiprocessing creates multiple processes, each with its own Python interpreter and memory space.
 
 ---
+
+  2. What is GIL?
+
+     GIL = Global Interpreter Lock = It is a mutex that allows only one thread to run python code at a time. Ensure memory safety.
+
+---
     
 
     
