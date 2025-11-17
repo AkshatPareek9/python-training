@@ -14,13 +14,12 @@
 
   1. Multithreading v/s Multiprocessing
   2. What is GIL?
-  3. How class and objects are created in Python?
-  4. What is Namespace * What are it's different types?
-  5. Explain recursion by reversing a list.
-  6. What are UnitTest in Python?
-  7. Map() v/s Filter() v/s Reduce()
-  8. ShallowCopy() v/s DeepCopy()
-  9. What is Monkey Patching?
-  10. OperatorOverloading v/s dunker method
-  11. Pattern and Graph Coding Questions
+  3. What is Namespace * What are it's different types?
+  4. Explain recursion by reversing a list.
+  5. What are UnitTest in Python?
+  6. Map() v/s Filter() v/s Reduce()
+  7. ShallowCopy() v/s DeepCopy()
+  8. What is Monkey Patching?
+  9. OperatorOverloading v/s dunker method
+  10. Pattern and Graph Coding Questions
 
