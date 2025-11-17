@@ -30,4 +30,27 @@
     
      Order :  LEGB : Local, enclosing, global, builtin
 
+---
+
+  4. Monkey Patching
+
+     Dynamically modifying / extending a class / module at runtime. It allows adding/changing methods without change the original source code.
+
+     Code:
+
+     ```
+       class Robot:
+          def walk(self):
+             print("Walking")
+
+       r = Robot()
+       r.walk()
+
+       def dance(self):
+           print("Dancing")
+
+       Robot.dance = dance
+       r.dance()
+     ```
+
     
